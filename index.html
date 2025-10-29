@@ -2,25 +2,30 @@
 <html lang="cs">
 <head>
 <meta charset="UTF-8">
-<title>KVÍZ HUB</title>
-<link rel="stylesheet" href="style.css">
+<title>Kvíz hub</title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-<h2>Kvíz hub</h2>
-<p id="question"></p>
-<img id="mushroom-image" src="" alt="Obrázek houby">
-<br>
-<input type="text" id="answer" placeholder="Zadej název houby">
-<br>
-<button id="idontknow-btn">Nevím</button>
-<button id="submit-btn">Ověřit</button>
-<button id="next-btn" disabled>Další</button>
-<p id="feedback"></p>
-<p id="score">Správně: 0 Špatně: 0</p>
-<p id="timer">Čas: 0 s</p>
-<p id="signature">NKSK</p>
+<div id="quiz-container">
+    <h2>Kvíz hub</h2>
+    <p id="question"></p>
+    <img id="mushroom-image" src="" alt="Obrázek houby">
+    
+    <input type="text" id="answer" placeholder="Zadej název houby">
+    
+    <div id="buttons-container">
+        <button id="idontknow-btn">Nevím</button>
+        <button id="submit-btn">Ověřit</button>
+        <button id="next-btn" disabled>Další</button>
+    </div>
+    
+    <p id="feedback"></p>
+    <p id="score">Správně: 0 Špatně: 0</p>
+    <p id="timer">Čas: 0 s</p>
+    <p id="signature">NKSK</p>
+</div>
 
 <script src="script.js"></script>
 </body>
