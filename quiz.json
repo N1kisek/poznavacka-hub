@@ -1,0 +1,222 @@
+[
+  {
+    "image": "output_images_json/slide_01_chrapac_helvella_sp.png",
+    "answer": "chřapáč"
+  },
+  {
+    "image": "output_images_json/slide_02_destice_chrapacova_discina_perlata.jpeg",
+    "answer": "destice chřapáčová"
+  },
+  {
+    "image": "output_images_json/slide_03_kacenka_ceska_verpa_bohemica.jpeg",
+    "answer": "kačenka česká"
+  },
+  {
+    "image": "output_images_json/slide_04_lanyz_letni_tuber_aestivum.jpeg",
+    "answer": "lanýž letní"
+  },
+  {
+    "image": "output_images_json/slide_05_smrz_obecny_morchella_esculenta.jpeg",
+    "answer": "smrž obecný"
+  },
+  {
+    "image": "output_images_json/slide_06_uchac_obecny_gyromitra_esculenta.jpeg",
+    "answer": "ucháč obecný"
+  },
+  {
+    "image": "output_images_json/slide_07_uchac_obrovsky_gyromitra_gigas.jpeg",
+    "answer": "ucháč obrovský"
+  },
+  {
+    "image": "output_images_json/slide_08_brezovnik_obecny_piptoporus_betulinus.jpeg",
+    "answer": "březovník obecný"
+  },
+  {
+    "image": "output_images_json/slide_09_sirovec_zlutooranzovy_laetiporus_sulphureus.jpeg",
+    "answer": "sírovec žlutooranžový"
+  },
+  {
+    "image": "output_images_json/slide_10_troudnatec_kopytovity_fomes_fomentarius.jpeg",
+    "answer": "troudnatec kopytovitý"
+  },
+  {
+    "image": "output_images_json/slide_11_hadovka_smrduta_phallus_impudicus.jpeg",
+    "answer": "hadovka smrdutá"
+  },
+  {
+    "image": "output_images_json/slide_12_kvetnatec_archeruv_clathrus_archeri.jpeg",
+    "answer": "květnatec archerův"
+  },
+  {
+    "image": "output_images_json/slide_13_ucho_jidasovo_auricularia_auricula_judae.jpeg",
+    "answer": "ucho Jidášovo"
+  },
+  {
+    "image": "output_images_json/slide_14_cechratka_cernohunata_paxillus_atrotomentosus.jpeg",
+    "answer": "čechratka černohuňatá"
+  },
+  {
+    "image": "output_images_json/slide_15_hliva_dubova_pleurotus_dryinus.jpeg",
+    "answer": "hlíva dubová"
+  },
+  {
+    "image": "output_images_json/slide_16_hliva_ustricna_pleurotus_ostreatus.jpeg",
+    "answer": "hlíva ústřičná"
+  },
+  {
+    "image": "output_images_json/slide_17_kotrc_kaderavy_sparassis_crispa.jpeg",
+    "answer": "kotrč kadeřavý"
+  },
+  {
+    "image": "output_images_json/slide_18_pestrec_obecny_scleroderma_citrinum.jpeg",
+    "answer": "pestřec obecný"
+  },
+  {
+    "image": "output_images_json/slide_19_pychavka_lycoperdon_sp.jpeg",
+    "answer": "pýchavka"
+  },
+  {
+    "image": "output_images_json/slide_20_liska_obecna_cantharellus_cibarius.jpeg",
+    "answer": "liška obecná"
+  },
+  {
+    "image": "output_images_json/slide_21_muchomurka_cervena_amanita_muscaria.jpeg",
+    "answer": "muchomůrka červená"
+  },
+  {
+    "image": "output_images_json/slide_22_muchomurka_ruzovka_amanita_rubescens.jpeg",
+    "answer": "muchomůrka růžovka"
+  },
+  {
+    "image": "output_images_json/slide_23_muchomurka_zelena_amanita_phalloides.jpeg",
+    "answer": "muchomůrka zelená"
+  },
+  {
+    "image": "output_images_json/slide_24_krasnoruzek_lepkavy_calocera_viscosa.jpeg",
+    "answer": "krásnorůžek lepkavý"
+  },
+  {
+    "image": "output_images_json/slide_25_ryzec_cernohlavek_lactarius_lignyotus.jpeg",
+    "answer": "ryzec černohlávek"
+  },
+  {
+    "image": "output_images_json/slide_26_ryzec_chlupaty_lactarius_pubescens.jpeg",
+    "answer": "ryzec chlupatý"
+  },
+  {
+    "image": "output_images_json/slide_27_ryzec_pravy_lactarius_deliciosus.jpeg",
+    "answer": "ryzec pravý"
+  },
+  {
+    "image": "output_images_json/slide_28_ryzec_syrovinka_lactarius_volemus.jpeg",
+    "answer": "ryzec syrovinka"
+  },
+  {
+    "image": "output_images_json/slide_29_kuratka_ramaria_sp.jpeg",
+    "answer": "kuřátka"
+  },
+  {
+    "image": "output_images_json/slide_30_holubinka_vrhavka_russula_emetica.jpeg",
+    "answer": "holubinka vrhavka"
+  },
+  {
+    "image": "output_images_json/slide_32_holubinka_hlinozluta_russula_ochroleuca.jpeg",
+    "answer": "holubinka hlínožlutá"
+  },
+  {
+    "image": "output_images_json/slide_33_bedla_vysoka_macrolepiota_procera.jpeg",
+    "answer": "bedla vysoká"
+  },
+  {
+    "image": "output_images_json/slide_34_pavucinec_plysovy_cortinarius_orellanus.jpeg",
+    "answer": "pavučinec plyšový"
+  },
+  {
+    "image": "output_images_json/slide_35_zampion_polni_agaricus_campestris.jpeg",
+    "answer": "žampion polní"
+  },
+  {
+    "image": "output_images_json/slide_36_ciruvka_majovka_calocybe_gambosa.jpeg",
+    "answer": "číruvka májovka"
+  },
+  {
+    "image": "output_images_json/slide_37_ciruvka_fialova_lepista_nuda.jpeg",
+    "answer": "číruvka fialová"
+  },
+  {
+    "image": "output_images_json/slide_38_zavojenka_olovova_entoloma_sinuatum.jpeg",
+    "answer": "závojenka olovová"
+  },
+  {
+    "image": "output_images_json/slide_39_hnojnik_obecny_coprinus_comatus.jpeg",
+    "answer": "hnojník obecný"
+  },
+  {
+    "image": "output_images_json/slide_40_hnojnik_inkoustovy_coprinus_atramentarius.jpeg",
+    "answer": "hnojník inkoustový"
+  },
+  {
+    "image": "output_images_json/slide_41_penizovka_sametonoha_flammulina_velutipes.jpeg",
+    "answer": "penízovka sametonohá"
+  },
+  {
+    "image": "output_images_json/slide_42_vaclavka_obecna_armillaria_mellea.jpeg",
+    "answer": "václavka obecná"
+  },
+  {
+    "image": "output_images_json/slide_43_safranka_cervenozluta_tricholomopsis_rutilans.jpeg",
+    "answer": "šafránka červenožlutá"
+  },
+  {
+    "image": "output_images_json/slide_44_lakovka_ametystova_laccaria_amethystina.jpeg",
+    "answer": "lakovka ametystová"
+  },
+  {
+    "image": "output_images_json/slide_45_kremenac_brezovy_leccinum_versipelle.jpeg",
+    "answer": "křemenáč březový"
+  },
+  {
+    "image": "output_images_json/slide_46_kozak_brezovy_leccinum_scabrum.jpeg",
+    "answer": "kozák březový"
+  },
+  {
+    "image": "output_images_json/slide_47_hrib_hnedy_boletus_badius.jpeg",
+    "answer": "hřib hnědý"
+  },
+  {
+    "image": "output_images_json/slide_48_hrib_kolodej_boletus_luridus.jpeg",
+    "answer": "hřib koloděj"
+  },
+  {
+    "image": "output_images_json/slide_49_hrib_kovar_boletus_erythropus.jpeg",
+    "answer": "hřib kovář"
+  },
+  {
+    "image": "output_images_json/slide_50_hrib_nachovytrusy_porphyrellus_pseudoscaber.jpeg",
+    "answer": "hřib nachovýtrusý"
+  },
+  {
+    "image": "output_images_json/slide_51_hrib_satan_boletus_satanas.jpeg",
+    "answer": "hřib satan"
+  },
+  {
+    "image": "output_images_json/slide_52_hrib_smrkovy_boletus_edulis.jpeg",
+    "answer": "hřib smrkový"
+  },
+  {
+    "image": "output_images_json/slide_53_hrib_zlucnik_boletus_felleus.jpeg",
+    "answer": "hřib žlučník"
+  },
+  {
+    "image": "output_images_json/slide_54_hrib_zlutomasy_boletus_chrysenteron.jpeg",
+    "answer": "hřib žlutomasý"
+  },
+  {
+    "image": "output_images_json/slide_55_klouzek_obecny_suillus_luteus.jpeg",
+    "answer": "klouzek obecný"
+  },
+  {
+    "image": "output_images_json/slide_56_siskovec_cerny_strobilomyces_strobilaceus.jpeg",
+    "answer": "šiškovec černý"
+  }
+]
